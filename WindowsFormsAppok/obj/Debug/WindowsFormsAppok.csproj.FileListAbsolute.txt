@@ -1,0 +1,11 @@
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\bin\Debug\WindowsFormsAppok.exe.config
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\bin\Debug\WindowsFormsAppok.exe
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\bin\Debug\WindowsFormsAppok.pdb
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.csproj.AssemblyReference.cache
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.Properties.Resources.resources
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.csproj.GenerateResource.cache
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.csproj.CoreCompileInputs.cache
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.exe
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.pdb
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\obj\Debug\WindowsFormsAppok.Form1.resources
+C:\Users\Gajdan.Edit.Ilona\source\repos\WindowsFormsAppok\WindowsFormsAppok\bin\Debug\orszagok.csv
